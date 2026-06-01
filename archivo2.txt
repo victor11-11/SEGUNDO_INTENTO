@@ -1,4 +1,10 @@
 holaaaaa
 hola
 hola
+<<<<<<< HEAD
 putito
+=======
+hola
+hola goku 
+hola
+>>>>>>> ramab

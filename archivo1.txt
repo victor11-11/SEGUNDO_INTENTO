@@ -1,5 +1,2 @@
-hola world 
+ 
 hola
-hello
-no es hello es hola goku
-hola goku
